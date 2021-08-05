@@ -45,3 +45,16 @@ nav ul li a {
   width: 4vw;
   height: 4vw;
 }
+main {
+  text-align: center;
+  width: 100%;
+  background-image: linear-gradient(
+    rgba(0, 189, 0, 0.267),
+    rgba(0, 124, 0, 0.452)
+  );
+}
+.info-txt {
+  margin: auto;
+  width: 50vw;
+  font-size: 1.3rem;
+}
